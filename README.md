@@ -60,8 +60,11 @@ We compared the performance of six classifiers across different numbers of bins:
 4. **Decision Tree:** Moderate performance, showing decline as bins increase.
 5. **K-Nearest Neighbors:** Slightly lower but stable performance.
 6. **Naive Bayes:** Performs the worst, with significant drops as bin numbers increase.
+<div align="center">
+    <img src="output.png" alt="Output File" width="70%" />
+</div>
 
-Overall, Random Forest and Support Vector Machine are the best performers, especially when the number of bins increases, while Naive Bayes is the least effective.
+Overall, Random Forest and Decision Tree are the best performers, especially when the number of bins increases, while Naive Bayes is the least effective.
 
 ## Conclusion
 
