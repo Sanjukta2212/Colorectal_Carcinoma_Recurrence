@@ -77,14 +77,14 @@ This study demonstrates the potential of machine learning models in predicting c
 ## Repository Contents
 
 - `data/`: Folder containing the dataset used for this study.
-- `04_preprocessing.ipynb/`: Jupyter notebooks with data preprocessing.
-- `05_evaluation.ipynb/`: Python scripts for various ML model training, and evaluation code.
-- `06_results/`: Folder containing model performance metrics and visualizations.
+- `preprocessing.ipynb/`: Please send an email to sanjuktabaruah5@gmail.com to receive this file.
+- `evaluation.ipynb/`: Python scripts for various ML model training, and evaluation code.
+- `results/`: Folder containing model performance metrics and visualizations.
 
 ## Getting Started
 
 1. Clone this repository: `https://github.com/Sanjukta2212/Colorectal_Carcinoma_Recurrence`
-2. Install the required dependencies: `pip install -r 02_requirements.rtf`
+2. Install the required dependencies: `pip install -r 01_requirements.rtf`
 3. Run the notebooks or scripts to reproduce the analysis and results.
 
 ## License
